@@ -15,10 +15,10 @@
 **📦 Other resources:  [Paper List for Medical Anomaly Detection](https://github.com/diaoquesang/Paper-List-for-Medical-Anomaly-Detection).**
 
 <div align="center">
-  <a href="https://www.hdu.edu.cn/">
+  <a href="https://www.ntu.edu.cn/">
     <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/ntu-logo.png?raw=true" height="100px">
   </a>
-  <a href="https://www.ntu.edu.cn/">
+  <a href="https://www.hdu.edu.cn/">
     <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/hdu-logo.png?raw=true" height="100px">
   </a>
 </div>
