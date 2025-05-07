@@ -1,14 +1,14 @@
 # 📒 Paper List for Cell Detection
 
 <div align="center">
- 
+
 
 [![](https://img.shields.io/github/stars/li00000011/Paper-List-for-Cell-Detection.svg)]([li00000011/Paper-List-for-Cell-Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection))
 [![](https://img.shields.io/github/forks/li00000011/Paper-List-for-Cell-Detection.svg)]([li00000011/Paper-List-for-Cell-Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection))
 [![](https://img.shields.io/github/issues/li00000011/Paper-List-for-Cell-Detection.svg)]([li00000011/Paper-List-for-Cell-Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection))
 [![](https://img.shields.io/github/license/li00000011/Paper-List-for-Cell-Detection.svg)](https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/LICENSE) 
 
-
+</div>
 
 **🏆 Contributors: [Jincheng Li (23' NTU Undergraduate)](https://github.com/li00000011),[Yifei Sun (22' HDU-ITMO Undergraduate)](https://diaoquesang.github.io/),[Yihui Zhan (24' NTU Undergraduate)](https://github.com/ZhanYiHui06).**
 
