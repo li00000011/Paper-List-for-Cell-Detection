@@ -45,7 +45,7 @@
 ## ✏️ Tips
 <div id = "s2"></div>
 
-- *: Papers for Non-Medical Anomaly Detection
+- *: Papers for Paper List for Cell Detection
 
 ## 🌏 1. Vision-Language Model
 <div id = "s3"></div>
