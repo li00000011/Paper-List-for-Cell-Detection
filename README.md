@@ -1,7 +1,7 @@
 # 📒 Paper List for Cell Detection
 
 <div align="center">
-
+ 
 
 [![](https://img.shields.io/github/stars/li00000011/Paper-List-for-Cell-Detection.svg)]([li00000011/Paper-List-for-Cell-Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection))
 [![](https://img.shields.io/github/forks/li00000011/Paper-List-for-Cell-Detection.svg)]([li00000011/Paper-List-for-Cell-Detection](https://github.com/li00000011/Paper-List-for-Cell-Detection))
@@ -23,8 +23,6 @@
   </a>
 </div>
 
-
-
 ## 🗃️ Contents
 - [🔍 Overview of Cell Detection](#s1)
 - [✏️ Tips](#s2)
@@ -32,6 +30,7 @@
 - [🌏 2. Knowledge Distillation](#s4)
 - [🌏 3. Outlier Detection under Domain Shift](#s5)
 - [🌏 4. Concept-Based Model](#s6)
+- [🌏 5. Cervical Cell Detection Program](#s7)
 - [🥰 Star History](#s7)
 
 ## 🔍 Overview of Cell Detection
@@ -45,7 +44,7 @@
 ## ✏️ Tips
 <div id = "s2"></div>
 
-- *: Papers for Paper List for Cell Detection
+- *: Papers for Non-Medical Anomaly Detection
 
 ## 🌏 1. Vision-Language Model
 <div id = "s3"></div>
@@ -74,6 +73,15 @@
   <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/FOCUS%20Knowledge-enhanced%20Adaptive%20Visual%20Compression%20for%20Few-shot%20Whole%20Slide%20Image%20Classification.png?raw=true" width="50%">
 </div>
 
+- [[arXiv 2025]](https://arxiv.org/pdf/2505.11404) **Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**
+
+  *Wenchuan Zhang, Penghao Zhang, Jingru Guo, Tao Cheng, Jie Chen, Shuwan Zhang, Zhang Zhang, Yuhao Yi, Hong Bu*
+
+<div align="center">
+  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Patho-R1%20A%20Multimodal%20Reinforcement%20Learning-Based%20Pathology%20Expert%20Reasoner.png?raw=true" width="50%">
+</div>
+
+
 ## 🌏 2. Knowledge Distillation
 
 <div id = "s4"></div>
@@ -86,6 +94,13 @@
   <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Robust%20Cervical%20Abnormal%20Cell%20Detection%20via%20Distillation%20from%20Local-Scale%20Consistency%20Refinement.png?raw=true" width="50%">
 </div>
 
+- [[Neural Networks 2024]](https://www.sciencedirect.com/science/article/pii/S0893608024003290) **Distillation of multi-class cervical lesion cell detection via synthesis-aidedpre-training and patch-level feature alignment**
+
+  *Manman Fei, Zhenrong Shen, Zhiyun Song, Xin Wang, Maosong Cao, Linlin Yao, Xiangyu Zhao, Qian Wang, Lichi Zhang*
+
+<div align="center">
+  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Robust%20Cervical%20Abnormal%20Cell%20Detection%20via%20Distillation%20from%20Local-Scale%20Consistency%20Refinement.png?raw=true" width="50%">
+</div>
 
 ## 🌏 3. Outlier Detection under Domain Shift
 <div id = "s5"></div>
@@ -98,6 +113,21 @@
   <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Context%20Matters%20Cross-Domain%20Cell%20Detection%20in%20Histopathology%20Images%20via%20Contextual%20Regularization.png?raw=true" width="50%">
 </div>
 
+- [[MIDOG]](https://arxiv.org/pdf/2208.12587v1) **Stain-Robust Mitotic Figure Detection for MIDOG 2022 Challenge**
+
+  *Mostafa Jahanifar, Adam Shephard, Neda Zamanitajeddin, Shan E Ahmed Raza, and Nasir Rajpoot*
+
+<div align="center">
+  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Stain-Robust%20Mitotic%20Figure%20Detection%20for%20MIDOG%202022%20Challenge.png?raw=true" width="50%">
+</div>
+
+- [[MIDOG]](https://arxiv.org/pdf/2109.00957) **Sk-Unet Model with Fourier Domain for Mitosis Detection**
+
+  *Sen Yang, Feng Luo, Jun Zhang & Xiyue Wang*
+
+<div align="center">
+  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Sk-Unet%20Model%20with%20Fourier%20Domain%20for%20Mitosis%20Detection.png?raw=true" width="50%">
+</div>
 
 ## 🌏 4. Concept-Based Model
 <div id = "s6"></div>
@@ -110,8 +140,39 @@
   <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Concept-Based%20Lesion%20Aware%20Transformer%20for%20Interpretable%20Retinal%20Disease%20Diagnosis.png?raw=true" width="50%">
 </div>
 
+## 🌏 5. Cervical Cell Detection Program
+
+<div id = "s7"></div>
+
+- [[Neurocomputing 2021]](https://www.sciencedirect.com/science/article/pii/S092523122100014X) **Comparison detector for cervical cell/clumps detection in the limited data scenario**
+
+  *Yixiong Liang, Zhihong Tang, Meng Yan, Jialin Chen, Qing Liu, Yao Xiang*
+
+<div align="center">
+  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Comparison%20detector%20for%20cervical%20cell%20clumps%20detection%20in%20the%20limited%20data%20scenario.png?raw=true" width="50%">
+</div>
+
+- [[Biomedical Signal Processing and Control 2024]](https://www.sciencedirect.com/science/article/pii/S1746809423013204) **DPD-Net: Dual-path Proposal Discriminative Network for abnormal cell detection in cervical cytology images**
+
+  *Siyi Chai, Jingmin Xin, Jiayi Wu, Hongxuan Yu, Zhaohai Liang, Yong Ma, Nanning Zheng*
+
+<div align="center">
+  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/DPDNet%20Dualpath%20Proposal%20Discriminative%20Network%20for%20abnormal%20cell%20detection%20in%20cervical%20cytology%20images.png?raw=true" width="50%">
+</div>
+
+- [[TMI 2024]](https://ieeexplore.ieee.org/abstract/document/10599508) **A Task Decomposing and Cell Comparing Method for Cervical Lesion Cell Detection**
+
+  *Tingting Chen, Wenhao Zheng, Haochao Ying, Member, IEEE, Xiangyu Tan, Kexin Li, Xiaoping Li, Danny Z. Chen ,Fellow, IEEE, and Jian Wu,Member, IEEE*
+
+<div align="center">
+  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/A%20Task%20Decomposing%20and%20Cell%20Comparing%20Method%20for%20Cervical%20Lesion%20Cell%20Detection.png?raw=true" width="50%">
+</div>
+
+
 ## 🥰 Star History
 
 <div id = "s7"></div>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=li00000011/Paper-List-for-Cell-Detection&type=Date)](https://www.star-history.com/#li00000011/Paper-List-for-Cell-Detection&Date)
+<div align="center">
+  <img src="https://api.star-history.com/svg?repos=li00000011/Paper-List-for-Cell-Detection&type=Date)](https://www.star-history.com/#li00000011/Paper-List-for-Cell-Detection&Date" width="100%">
+</div>
