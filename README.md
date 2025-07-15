@@ -99,7 +99,7 @@
   *Manman Fei, Zhenrong Shen, Zhiyun Song, Xin Wang, Maosong Cao, Linlin Yao, Xiangyu Zhao, Qian Wang, Lichi Zhang*
 
 <div align="center">
-  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Robust%20Cervical%20Abnormal%20Cell%20Detection%20via%20Distillation%20from%20Local-Scale%20Consistency%20Refinement.png?raw=true" width="50%">
+  <img src="https://github.com/li00000011/Paper-List-for-Cell-Detection/blob/main/img/Distillation%20of%20multi-class%20cervical%20lesion%20cell%20detection%20via%20synthesis-aided%20pre-training%20and%20patch-level%20feature%20alignment.jpg?raw=true" width="50%">
 </div>
 
 ## 🌏 3. Outlier Detection under Domain Shift
